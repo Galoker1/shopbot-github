@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 from requests import get
 buy=[0,0,0]
-bot=telebot.TeleBot('1480500018:AAGyEekow7WFuNqtNrx4VyEShwpu_Fjjmx8')
+bot=telebot.TeleBot('token')
 items=[
     ["Лапша Биг Ланч Курица",7,20,"https://sun9-8.userapi.com/impg/cpxoowDnIHJZV0NtIyL82PDO--tl-FxiV6wbOw/5zYe83c6EWo.jpg?size=768x1024&quality=96&sign=152f1346edb3e58decb0ee7b16dbc1cf&type=album"],
     ["Лапша Биг Ланч Говядина",9,20,"https://sun9-56.userapi.com/impg/PcMD78s4MNZO9ndz9MIc--UlQXt9wlvbbiilNA/51U4Cj6hdNc.jpg?size=768x1024&quality=96&sign=417d43c77df42dfb69405372d859e6f3&type=album"],
